@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Data kendaraan parkir</h1>
+    <a href="tambah.php">Tambah</a>
     <table border="2">
         <tr>
         <th>id_kendaraan</th>
